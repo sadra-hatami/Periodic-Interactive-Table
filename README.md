@@ -26,6 +26,8 @@ An interactive educational application for exploring **all 118 chemical elements
 [![Periodic Table](https://img.shields.io/badge/Science-Periodic%20Table-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Periodic_table)
 [![Interactive](https://img.shields.io/badge/Project-Interactive-1ABC9C?style=for-the-badge)](https://www.python.org/)
 [![Desktop](https://img.shields.io/badge/Platform-Desktop-6f42c1?style=for-the-badge)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/license/mit)
+[![Open Source](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)](https://opensource.org/)
 
 <br>
 
