@@ -71,7 +71,7 @@ The application contains information for **all 118 known chemical elements**, in
 
 It is designed to make chemistry more visual, accessible, and engaging for students and anyone interested in exploring the elements.
 
-> **Tagline:** *An interactive Python periodic table for exploring all 118 elements, their properties, atomic structure, and discovery history.*
+> **Tagline:** *An interactive Python periodic table for exploring all 118 elements, atomic properties, electron configurations, subatomic particles, physical properties, and discovery history.*
 
 ---
 
