@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚛️ Mendeleev Interactive Table
+# Mendeleev Interactive Table
 
 # 🧪⚛️🔬
 
