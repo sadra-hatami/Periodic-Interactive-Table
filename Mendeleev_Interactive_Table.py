@@ -1,4 +1,5 @@
 # Mendeleev Interactive Table
+# By Sadra Hatami | صدرا حاتمی
 
 elements_name = [
     "Hydrogen", "Helium", "Lithium", "Beryllium", "Boron", "Carbon", "Nitrogen", "Oxygen", "Fluorine", 
