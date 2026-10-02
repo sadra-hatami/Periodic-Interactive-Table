@@ -2,7 +2,7 @@
 
 # ⚛️ Mendeleev Interactive Table
 
-# ⚛️🧪🔬⚛️
+# 🧪⚛️🔬
 
 ### An Interactive Periodic Table of the Elements Built with Python
 
