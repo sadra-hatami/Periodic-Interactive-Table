@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mendeleev Interactive Table
+# Periodic Interactive Table
 
 # 🧪⚛️🔬
 
@@ -26,12 +26,10 @@ An interactive educational application for exploring **all 118 chemical elements
 [![Periodic Table](https://img.shields.io/badge/Science-Periodic%20Table-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Periodic_table)
 [![Interactive](https://img.shields.io/badge/Project-Interactive-1ABC9C?style=for-the-badge)](https://www.python.org/)
 [![Desktop](https://img.shields.io/badge/Platform-Desktop-6f42c1?style=for-the-badge)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/license/mit)
-[![Open Source](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)](https://opensource.org/)
 
 <br>
 
-[📦 Repository](https://github.com/sadra-hatami/Mendeleev-Interactive-Table)
+[📦 Repository](https://github.com/sadra-hatami/Periodic-Interactive-Table)
 •
 [📧 GitHub](https://github.com/sadra-hatami)
 •
@@ -44,11 +42,12 @@ An interactive educational application for exploring **all 118 chemical elements
 # 📑 Table of Contents
 
 * [About](#-about)
-* [Why Mendeleev Interactive Table?](#-why-mendeleev-interactive-table)
+* [Why Periodic Interactive Table?](#-why-periodic-interactive-table)
 * [Key Features](#-key-features)
 * [Element Information](#-element-information)
 * [Interactive Experience](#-interactive-experience)
 * [Electron Shell Visualization](#-electron-shell-visualization)
+* [Periodic Table Structure](#-periodic-table-structure)
 * [Technologies](#️-technologies)
 * [Usage](#️-usage)
 * [Target Audience](#-target-audience)
@@ -63,7 +62,7 @@ An interactive educational application for exploring **all 118 chemical elements
 
 # 📖 About
 
-**Mendeleev Interactive Table** is an interactive educational application developed with **Python** for exploring the periodic table and learning about chemical elements.
+**Periodic Interactive Table** is an interactive educational application developed with **Python** for exploring the periodic table and learning about chemical elements.
 
 Instead of presenting the periodic table as a static image, the project transforms it into an **interactive environment** where users can select an element and immediately explore detailed information about it.
 
@@ -75,11 +74,11 @@ It is designed to make chemistry more visual, accessible, and engaging for stude
 
 ---
 
-# 🚀 Why Mendeleev Interactive Table?
+# 🚀 Why Periodic Interactive Table?
 
 Traditional periodic tables provide a large amount of information in a compact static layout.
 
-Mendeleev Interactive Table was created to turn that static experience into an **interactive learning environment**.
+**Periodic Interactive Table** was created to transform that static experience into an **interactive learning environment**.
 
 Instead of searching through separate references for information about individual elements, users can:
 
@@ -95,7 +94,7 @@ The project focuses on:
 * Making chemistry more interactive
 * Helping students explore chemical elements
 * Connecting atomic structure with visual representation
-* Presenting complex information in an accessible interface
+* Presenting scientific information in an accessible interface
 * Combining programming with science education
 
 ---
@@ -122,8 +121,8 @@ The project focuses on:
 * **Discoverer information**
 * **Discovery location**
 * **Interactive electron-shell visualization**
-* **Separate detailed information window** for each element
-* **Educational desktop interface** built entirely with Python
+* **Dedicated detailed information window** for each element
+* **Educational desktop interface** built with Python
 
 ---
 
@@ -133,16 +132,16 @@ Selecting an element opens a dedicated information window containing detailed sc
 
 ### Atomic Information
 
-| Property          | Description                    |
-| ----------------- | ------------------------------ |
-| **Element Name**  | Full name of the element       |
-| **Symbol**        | Chemical symbol                |
-| **Atomic Number** | Number of protons              |
-| **Atomic Mass**   | Relative atomic mass           |
-| **Charge**        | Element/ion charge information |
-| **Element Type**  | Classification of the element  |
-| **Group Number**  | Periodic-table group           |
-| **Period Number** | Periodic-table period          |
+| Property          | Description                      |
+| ----------------- | -------------------------------- |
+| **Element Name**  | Full name of the element         |
+| **Symbol**        | Chemical symbol                  |
+| **Atomic Number** | Number of protons                |
+| **Atomic Mass**   | Relative atomic mass             |
+| **Charge**        | Element / ion charge information |
+| **Element Type**  | Classification of the element    |
+| **Group Number**  | Periodic-table group             |
+| **Period Number** | Periodic-table period            |
 
 ### Atomic Structure
 
@@ -189,7 +188,7 @@ Users can interact directly with the elements:
 6. Open the subatomic-particle information when needed.
 7. View the electron-shell visualization.
 
-The interface combines the **periodic-table layout**, **interactive selection**, and **dedicated information windows** into one learning experience.
+The interface combines the **periodic-table layout**, **interactive element selection**, and **dedicated information windows** into one learning experience.
 
 ---
 
@@ -238,7 +237,7 @@ Different element categories are visually distinguished through color coding, he
 | **Turtle Graphics**        | Electron-shell visualization             |
 | **Python Data Structures** | Element data organization and processing |
 
-The project intentionally uses Python's built-in GUI and graphics ecosystem to create a standalone educational application without requiring a large external framework.
+The project uses Python's built-in GUI and graphics ecosystem to create a standalone educational application without relying on a large external framework.
 
 ---
 
@@ -253,9 +252,9 @@ A Python installation is required to run the project.
 Clone the repository and run the main Python file:
 
 ```bash
-git clone https://github.com/sadra-hatami/Mendeleev-Interactive-Table.git
-cd Mendeleev-Interactive-Table
-python Mendeleev_Interactive_Table.py
+git clone https://github.com/sadra-hatami/Periodic-Interactive-Table.git
+cd Periodic-Interactive-Table
+python Periodic_Interactive_Table.py
 ```
 
 ### Basic workflow
@@ -263,7 +262,7 @@ python Mendeleev_Interactive_Table.py
 1. Launch the application.
 2. Explore the periodic table.
 3. Click an element.
-4. Review the element's detailed properties.
+4. Review its detailed properties.
 5. Open subatomic-particle information if needed.
 6. Explore its electron-shell visualization.
 
@@ -326,7 +325,7 @@ python Mendeleev_Interactive_Table.py
 
 # 🚀 Roadmap
 
-Mendeleev Interactive Table can continue evolving into a more comprehensive chemistry learning platform.
+Periodic Interactive Table can continue evolving into a more comprehensive chemistry learning platform.
 
 Possible future improvements include:
 
@@ -388,7 +387,7 @@ Yes. The project is designed as an interactive educational tool for exploring ch
 
 Contributions are welcome.
 
-If you would like to improve Mendeleev Interactive Table, you can:
+If you would like to improve Periodic Interactive Table, you can:
 
 * Report bugs
 * Suggest new features
@@ -420,7 +419,7 @@ Developer:
 
 **GitHub Repository:**
 
-https://github.com/sadra-hatami/Mendeleev-Interactive-Table
+https://github.com/sadra-hatami/Periodic-Interactive-Table
 
 ---
 
