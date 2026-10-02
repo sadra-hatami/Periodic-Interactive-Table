@@ -466,12 +466,4 @@ Your support helps encourage the continued development of educational and scient
 
 ## Designed & developed with ❤️ for the community of science learners and developers in Iran and the world
 
-<br>
-
-## 👨‍💻 **Sadra Hatami**
-
-### Developer • Software Engineer • Creator
-
-⭐ If you like this project, don't forget to star the repository!
-
 </div>
