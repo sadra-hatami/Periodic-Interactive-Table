@@ -1,4 +1,4 @@
-# Mendeleev Interactive Table
+# Mendeleev Interactive Table | جدول تعاملی مندلیف (تناوبی)
 # By Sadra Hatami | صدرا حاتمی
 
 elements_name = [
